@@ -1,0 +1,1 @@
+A gadget for Google Docs Spreadsheets that will let you use an item/spell link from Wowhead.com within a spreadsheet.
